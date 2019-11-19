@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: kiranreddy503/kiran:2019.1.1
+        image: kiranreddy503/kiran:2.4.0
         ports:
         - containerPort: 80
